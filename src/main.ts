@@ -47,7 +47,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
       <div class="projects-foot"><span>${icon("gitlab")} Le code est aussi une façon de partager.</span><a href="https://gitlab.com/GTiazara" ${external}>Tous mes dépôts GitLab ${icon("arrow-up-right")}</a></div>
     </div></section>
     <section class="about-section container" id="parcours" aria-labelledby="about-title">
-      <div class="about-intro"><span class="eyebrow section-number">02 / PARCOURS</span><h2 id="about-title">La curiosité<br>comme boussole<span class="green">.</span></h2><p>Originaire de La Réunion, mon parcours relie les sciences de la Terre, l’information géographique et la conception de systèmes d’information.</p><p>À l’ENSG, j’ai exploré toute la chaîne de la donnée : l’acquérir, l’analyser, la représenter et la rendre accessible.</p><button class="text-link cv-open" type="button" data-cv-viewer="fr" aria-haspopup="dialog">Consulter mon CV ${icon("file-text")}</button></div>
+      <div class="about-intro"><span class="eyebrow section-number">02 / PARCOURS</span><h2 id="about-title">La curiosité<br>comme boussole<span class="green">.</span></h2><p>Mon parcours relie les sciences de la Terre, l’information géographique et la conception de systèmes d’information.</p><p>À l’ENSG, j’ai exploré toute la chaîne de la donnée : l’acquérir, l’analyser, la représenter et la rendre accessible.</p><button class="text-link cv-open" type="button" data-cv-viewer="fr" aria-haspopup="dialog">Consulter mon CV ${icon("file-text")}</button></div>
       <ol class="timeline">
         <li>
           <span class="timeline-date">Septembre 2020 — septembre 2023</span>
